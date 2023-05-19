@@ -18,9 +18,15 @@
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.big-card__title > h1 > a{
+    text-decoration: none;
+}
 .big-card__description{
     padding: 10px;
 }
 .big-card__description > p{
     color: gray;
+}
+.big-card__description > p > a{
+   text-decoration: none;
 }
